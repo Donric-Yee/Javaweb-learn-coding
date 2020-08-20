@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="servlet-01">
+    <output-path>$PROJECT_DIR$/out/artifacts/servlet_01</output-path>
+    <root id="root">
+      <element id="archive" name="servlet_01.jar">
+        <element id="module-output" name="servlet-01" />
+      </element>
+      <element id="module-source" name="servlet-01" />
+    </root>
+  </artifact>
+</component>
